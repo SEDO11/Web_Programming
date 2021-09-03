@@ -1,0 +1,21 @@
+div{
+    text-align: center;
+}
+body{
+    background-color: linen;
+    color: green;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+h1{
+    text-align: center;
+    color: darkred;
+}
+h3{
+    height: 5px;
+    border: solid gray;
+}
+span{
+    color: blue;
+    font-size: 20px;
+}
